@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/shaohua/rpc/test/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

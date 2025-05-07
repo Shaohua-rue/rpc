@@ -1,0 +1,3 @@
+/home/shaohua/rpc/test/build/CMakeFiles/test.dir
+/home/shaohua/rpc/test/build/CMakeFiles/edit_cache.dir
+/home/shaohua/rpc/test/build/CMakeFiles/rebuild_cache.dir
